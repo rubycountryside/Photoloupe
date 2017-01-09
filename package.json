@@ -1,0 +1,19 @@
+{
+  "name": "photoloupe",
+  "version": "0.0.1",
+  "description": "Put the mouse on the picture, move the mouse, the picture is part of the details of the amplification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubycountryside/Photoloupe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubycountryside/Photoloupe/issues"
+  },
+  "homepage": "https://github.com/rubycountryside/Photoloupe#readme"
+}
